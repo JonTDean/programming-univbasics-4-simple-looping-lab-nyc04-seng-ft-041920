@@ -36,7 +36,7 @@ def return_string_array(elements)
     newArray << e
   end
   
-  
+  return newArray
 end
   
   
