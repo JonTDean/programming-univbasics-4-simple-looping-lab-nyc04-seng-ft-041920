@@ -32,7 +32,8 @@ end
 def return_string_array(elements)
   newArray = []
   
-  elements = ['3', '2', '1']
+  elements.each do |e|
+  end
   
   
 end
