@@ -31,6 +31,7 @@ end
 def return_string_array(elements)
   newArray = []
   
+  # Iterate over each element and 
   elements.each do |e|
     newArray << e.to_s
   end
