@@ -29,6 +29,7 @@ end
 
 # Get an array of elements, and converts elements to strings and 
 # Returns a new array from 
-def 
+def return_arrays
+end
   
   
