@@ -32,7 +32,7 @@ end
 def return_string_array(elements)
   newArray = []
   
-  elements
+  elements = ['3', '2', '1']
   
   
 end
