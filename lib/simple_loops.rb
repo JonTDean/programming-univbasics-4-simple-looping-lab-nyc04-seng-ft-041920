@@ -33,6 +33,7 @@ def return_string_array(elements)
   newArray = []
   
   elements.each do |e|
+    newArray << e
   end
   
   
