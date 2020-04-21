@@ -34,7 +34,7 @@ def return_string_array(elements)
   
   elements.each do |e|
     string_e = e
-    newArray << e
+    newArray << e.to_s
   end
   
   return newArray
