@@ -27,8 +27,7 @@ def output_array(array)
   end
 end
 
-# Get an array of elements, and converts elements in new Array
-# Returns a new array 
+# Get an array of elements, and converts elements to strings in new Array
 def return_string_array(elements)
   newArray = []
   
