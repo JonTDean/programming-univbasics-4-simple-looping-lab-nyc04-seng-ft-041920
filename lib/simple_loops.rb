@@ -28,11 +28,12 @@ def output_array(array)
 end
 
 # Get an array of elements, and converts elements to strings and 
-# Returns a new array from 
+# Returns a new array 
 def return_string_array(elements)
   newArray = []
   
   elements.each do |e|
+    string_e = e
     newArray << e
   end
   
